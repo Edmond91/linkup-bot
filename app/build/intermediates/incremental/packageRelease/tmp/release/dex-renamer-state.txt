@@ -1,0 +1,7 @@
+#Sun May 19 03:42:48 MST 2019
+base.0=/home/smoke/Desktop/WatBot-master/app/build/intermediates/dex/release/mergeDexRelease/out
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/smoke/Desktop/WatBot-master/app/build/intermediates/dex/release/mergeDexRelease/out

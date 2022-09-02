@@ -1,0 +1,4 @@
+#Thu May 16 06:56:48 MST 2019
+base.0=/home/smoke/Desktop/WatBot-master/app/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex
